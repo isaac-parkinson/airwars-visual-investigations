@@ -5,9 +5,9 @@
 
 ---
 
-The Measurable Truth dataset provides systematic quantitative coding of 13 visual investigations produced by [Airwars](https://airwars.org) between 2021 and 2025. Each investigation is coded across 39 variables covering the types of visual techniques used, how transparently the investigation explains its methods, how it is presented, and how it circulates.
+The Measurable Truth dataset provides systematic quantitative coding of 13 visual investigations produced by [Airwars](https://airwars.org) between 2021 and 2025. Each investigation is coded across 46 variables covering the types of visual techniques used, how transparently the investigation explains its methods, how it is presented, and how it circulates.
 
-This is an initial corpus designed for expansion. It forms part of *Digital Verite*, a broader research project examining the changing conditions of knowledge production in computational visual documentation across OSINT, journalism, and human rights practice. The coding schema is designed to remain stable as the dataset grows to cover additional institutions and time periods.
+This is an initial pilot corpus designed for expansion. It forms part of *Digital Verite*, a broader research project examining the changing conditions of knowledge production in computational visual documentation across OSINT, journalism, and human rights practice. The coding schema is designed to remain stable as the dataset grows to cover additional institutions and time periods.
 
 ---
 
@@ -48,7 +48,7 @@ The four technique ratio columns (Observational, Computational, Hybrid, Syntheti
 | `Interactivity` | Passive / Limited / User-directed / Collaborative |
 | `Collaboration` | Whether the investigation had a news media partner |
 
-The full 39-variable schema with all values and definitions is in Appendix A of the data paper.
+The full 46-variable schema with all values and definitions is in Appendix A of the data paper.
 
 ---
 
